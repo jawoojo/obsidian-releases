@@ -18933,5 +18933,12 @@
     "author": "Eddie Blundell",
     "description": "Add timestamps to entries under dated headers for lab notebook style logging.",
     "repo": "eddie/obsidian-time-log"
+  },
+  {
+    "id": "obsidian-toggle",
+    "name": "Obsidian Toggle",
+    "author": "jawoojo",
+    "description": "A premium, Notion-style toggle plugin with enhanced styling and deep nesting support.",
+    "repo": "jawoojo/obsidian-toggle"
   }
 ]
